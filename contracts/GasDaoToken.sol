@@ -54,7 +54,7 @@ contract GasDaoToken is ERC20, ERC20Permit, ERC20Votes, Ownable {
         GasDaoTokenLock(tokenLockAddress).lock(0x73ea708dC6e7A629AE3c89322320F1107537e200, 25_000_000_000e18);
         GasDaoTokenLock(tokenLockAddress).lock(0xd96bfADF43F106C5882c30B96E8a0769dbD5486B, 25_000_000_000e18);
         GasDaoTokenLock(tokenLockAddress).lock(0x7a1B5439c870a062c5701C78F52eE83FAFBb9274, 25_000_000_000e18);
-        GasDaoTokenLock(tokenLockAddress).lock(0xF0591DA70765fE40B99E8B0e2bD0bF1F6A1AE797, 10_000_000_000e18);
+        GasDaoTokenLock(tokenLockAddress).lock(0xbEDBC651f706f7407c9e1f71f74E61302f072FE5, 10_000_000_000e18);
         GasDaoTokenLock(tokenLockAddress).lock(0x379C326e6443c34Fa6a6E21e4D48A2F6CDd8cE23, 10_000_000_000e18);
         GasDaoTokenLock(tokenLockAddress).lock(0xD75fB66E71bfFbB1C9d09F7Ae2C3270d9F71ecfb, 10_000_000_000e18);
         GasDaoTokenLock(tokenLockAddress).lock(0x87892947e4AE5a208f647b0128180032145837cC,  6_000_000_000e18);
